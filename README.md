@@ -8,6 +8,7 @@ This data pipeline project is designed to process and transform financial data f
 - [Requirements](#requirements)
 - [Setup](#setup)
 - [Usage](#usage)
+- [Architecture](#architecture)
 
 ## Project Structure
 
@@ -64,3 +65,6 @@ ChargeflowAssignment_v2.0/
 ```sh
 python -m scripts.pipeline
 ```
+
+## Architecture
+![architecture](https://github.com/user-attachments/assets/054d6858-eeeb-4f56-ab26-8992a5cf8bf6)
