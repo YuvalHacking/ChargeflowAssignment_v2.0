@@ -1,0 +1,652 @@
+[
+    {
+        "transaction_id": "2df83b3b-dabb-4fe1-82c7-b1977783d8ba",
+        "order_id": "order_2",
+        "timestamp": "2023-10-25 00:00:00",
+        "amount": 1616.19,
+        "currency": "EUR",
+        "status": "failed",
+        "payment_method": {
+            "type": "credit_card",
+            "provider": "Molina LLC"
+        },
+        "error_code": "error_360"
+    },
+    {
+        "transaction_id": "138c3239-6335-4012-8783-1c1ba1d048b0",
+        "order_id": "order_14",
+        "timestamp": "2023-08-30 00:00:00",
+        "amount": 154.18,
+        "currency": "USD",
+        "status": "failed",
+        "payment_method": {
+            "type": "debit_card",
+            "provider": "Baker Ltd"
+        },
+        "error_code": "error_691"
+    },
+    {
+        "transaction_id": "9175e705-62fb-474c-af39-d4b9bce93c4c",
+        "order_id": "order_28",
+        "timestamp": "2023-06-23 00:00:00",
+        "amount": 1857.49,
+        "currency": "USD",
+        "status": "failed",
+        "payment_method": {
+            "type": "credit_card",
+            "provider": "Page LLC"
+        },
+        "error_code": "error_392"
+    },
+    {
+        "transaction_id": "5d5635a8-90cd-47ff-bea0-ad7e3f892c12",
+        "order_id": "order_33",
+        "timestamp": "2023-11-04 00:00:00",
+        "amount": 2416.59,
+        "currency": "GBP",
+        "status": "pending",
+        "payment_method": {
+            "type": "debit_card",
+            "provider": "Cannon-Barrett"
+        },
+        "error_code": null
+    },
+    {
+        "transaction_id": "ea0febf6-de50-4dc2-9706-6ba0a19fcc23",
+        "order_id": "order_17",
+        "timestamp": "2023-10-16 00:00:00",
+        "amount": 3034.65,
+        "currency": "USD",
+        "status": "failed",
+        "payment_method": {
+            "type": "credit_card",
+            "provider": "Reese-Martin"
+        },
+        "error_code": "error_853"
+    },
+    {
+        "transaction_id": "5b78b909-9b17-4e2c-9e88-6c217604e7c7",
+        "order_id": "order_48",
+        "timestamp": "2023-10-09 00:00:00",
+        "amount": 2523.49,
+        "currency": "GBP",
+        "status": "failed",
+        "payment_method": {
+            "type": "wallet",
+            "provider": "Carter-Evans"
+        },
+        "error_code": "error_405"
+    },
+    {
+        "transaction_id": "960da3ff-89d4-42f0-a2b1-5444c1923cbc",
+        "order_id": "order_2",
+        "timestamp": "2023-04-02 00:00:00",
+        "amount": 1616.19,
+        "currency": "USD",
+        "status": "completed",
+        "payment_method": {
+            "type": "wallet",
+            "provider": "Duncan PLC"
+        },
+        "error_code": "error_124"
+    },
+    {
+        "transaction_id": "848b1f68-eac9-4854-8452-193089260087",
+        "order_id": "order_30",
+        "timestamp": "2023-05-24 00:00:00",
+        "amount": 196.12,
+        "currency": "USD",
+        "status": "failed",
+        "payment_method": {
+            "type": "credit_card",
+            "provider": "Phillips-Guzman"
+        },
+        "error_code": "error_982"
+    },
+    {
+        "transaction_id": "841a8308-4049-488e-9d6a-d2c286be6cd4",
+        "order_id": "order_21",
+        "timestamp": "2023-12-31 00:00:00",
+        "amount": 3926.3,
+        "currency": "GBP",
+        "status": "failed",
+        "payment_method": {
+            "type": "credit_card",
+            "provider": "Davis-Vargas"
+        },
+        "error_code": "error_198"
+    },
+    {
+        "transaction_id": "e4a81e94-c186-4e9d-b8a4-3d7438f2a9c5",
+        "order_id": "order_24",
+        "timestamp": "2023-10-31 00:00:00",
+        "amount": 742.9,
+        "currency": "USD",
+        "status": "completed",
+        "payment_method": {
+            "type": "credit_card",
+            "provider": "Garner, Coleman and Jackson"
+        },
+        "error_code": "error_698"
+    },
+    {
+        "transaction_id": "e5edda46-db0c-418c-98a0-52555838ff1d",
+        "order_id": "order_47",
+        "timestamp": "2023-11-26 00:00:00",
+        "amount": 2846.32,
+        "currency": "GBP",
+        "status": "failed",
+        "payment_method": {
+            "type": "debit_card",
+            "provider": "Davidson-Gaines"
+        },
+        "error_code": null
+    },
+    {
+        "transaction_id": "70ef86a7-7fb5-43e4-ac54-eab7bb523d9e",
+        "order_id": "order_48",
+        "timestamp": "2023-11-04 00:00:00",
+        "amount": 2523.49,
+        "currency": "EUR",
+        "status": "failed",
+        "payment_method": {
+            "type": "wallet",
+            "provider": "Ryan, Adams and York"
+        },
+        "error_code": "error_249"
+    },
+    {
+        "transaction_id": "8991fdea-d73d-4bdd-8f33-2dd2259100c6",
+        "order_id": "order_44",
+        "timestamp": "2023-04-17 00:00:00",
+        "amount": 2131.79,
+        "currency": "GBP",
+        "status": "failed",
+        "payment_method": {
+            "type": "credit_card",
+            "provider": "Martinez and Sons"
+        },
+        "error_code": null
+    },
+    {
+        "transaction_id": "6327a74c-0c2e-441c-8001-7e23469da1f3",
+        "order_id": "order_33",
+        "timestamp": "2023-06-17 00:00:00",
+        "amount": 2416.59,
+        "currency": "EUR",
+        "status": "failed",
+        "payment_method": {
+            "type": "credit_card",
+            "provider": "Carrillo PLC"
+        },
+        "error_code": null
+    },
+    {
+        "transaction_id": "bdbe4a36-864b-4a2d-8ae8-aa2aed1513d9",
+        "order_id": "order_45",
+        "timestamp": "2023-08-13 00:00:00",
+        "amount": 3188.84,
+        "currency": "EUR",
+        "status": "failed",
+        "payment_method": {
+            "type": "credit_card",
+            "provider": "Hart-Figueroa"
+        },
+        "error_code": "error_257"
+    },
+    {
+        "transaction_id": "f84e8289-61b9-48b2-91e6-5cf12c59429d",
+        "order_id": "order_8",
+        "timestamp": "2023-09-09 00:00:00",
+        "amount": 3637.94,
+        "currency": "EUR",
+        "status": "failed",
+        "payment_method": {
+            "type": "credit_card",
+            "provider": "Sanchez, Castillo and Day"
+        },
+        "error_code": "error_786"
+    },
+    {
+        "transaction_id": "53989e0f-0d72-4774-857a-27c7e91e35cc",
+        "order_id": "order_33",
+        "timestamp": "2023-12-26 00:00:00",
+        "amount": 2416.59,
+        "currency": "USD",
+        "status": "completed",
+        "payment_method": {
+            "type": "wallet",
+            "provider": "Rubio PLC"
+        },
+        "error_code": null
+    },
+    {
+        "transaction_id": "b2befc31-584b-4040-8111-84faca440ea6",
+        "order_id": "order_21",
+        "timestamp": "2023-03-14 00:00:00",
+        "amount": 3926.3,
+        "currency": "EUR",
+        "status": "pending",
+        "payment_method": {
+            "type": "debit_card",
+            "provider": "Arnold-Perkins"
+        },
+        "error_code": "error_812"
+    },
+    {
+        "transaction_id": "b5544fc5-1a6a-4fd9-815f-d55182377320",
+        "order_id": "order_47",
+        "timestamp": "2023-04-12 00:00:00",
+        "amount": 2846.32,
+        "currency": "GBP",
+        "status": "failed",
+        "payment_method": {
+            "type": "debit_card",
+            "provider": "Bowman, Grant and Chavez"
+        },
+        "error_code": "error_953"
+    },
+    {
+        "transaction_id": "a567f1e8-b7fe-4a7b-a601-15f6eebd6e34",
+        "order_id": "order_36",
+        "timestamp": "2023-07-28 00:00:00",
+        "amount": 876.66,
+        "currency": "EUR",
+        "status": "failed",
+        "payment_method": {
+            "type": "debit_card",
+            "provider": "Morris, Salazar and Curtis"
+        },
+        "error_code": "error_509"
+    },
+    {
+        "transaction_id": "6689ad41-b8df-48a9-aeae-e827e77b18f3",
+        "order_id": "order_7",
+        "timestamp": "2023-03-05 00:00:00",
+        "amount": 4610.86,
+        "currency": "EUR",
+        "status": "failed",
+        "payment_method": {
+            "type": "wallet",
+            "provider": "Ruiz Group"
+        },
+        "error_code": "error_271"
+    },
+    {
+        "transaction_id": "319ed0c5-7762-4004-999f-61fc6b64c4b1",
+        "order_id": "order_7",
+        "timestamp": "2023-07-28 00:00:00",
+        "amount": 4610.86,
+        "currency": "GBP",
+        "status": "completed",
+        "payment_method": {
+            "type": "debit_card",
+            "provider": "Lewis-Porter"
+        },
+        "error_code": "error_695"
+    },
+    {
+        "transaction_id": "9bb559d3-1007-4676-adf2-52513488a765",
+        "order_id": "order_1",
+        "timestamp": "2023-11-24 00:00:00",
+        "amount": 376.8,
+        "currency": "GBP",
+        "status": "failed",
+        "payment_method": {
+            "type": "credit_card",
+            "provider": "Hamilton, Walker and Washington"
+        },
+        "error_code": "error_765"
+    },
+    {
+        "transaction_id": "ae30b5e2-4893-440d-bb8b-d2b35eaf33dc",
+        "order_id": "order_21",
+        "timestamp": "2023-07-15 00:00:00",
+        "amount": 3926.3,
+        "currency": "GBP",
+        "status": "failed",
+        "payment_method": {
+            "type": "debit_card",
+            "provider": "Thompson and Sons"
+        },
+        "error_code": null
+    },
+    {
+        "transaction_id": "d3724d5b-76f0-4359-8754-e3e500d58550",
+        "order_id": "order_10",
+        "timestamp": "2023-05-01 00:00:00",
+        "amount": 3292.51,
+        "currency": "GBP",
+        "status": "failed",
+        "payment_method": {
+            "type": "debit_card",
+            "provider": "Ellis, Guerrero and Jones"
+        },
+        "error_code": "error_930"
+    },
+    {
+        "transaction_id": "e762e1ca-d03e-48c5-8da8-d624dbce523c",
+        "order_id": "order_1",
+        "timestamp": "2023-02-14 00:00:00",
+        "amount": 376.8,
+        "currency": "GBP",
+        "status": "failed",
+        "payment_method": {
+            "type": "debit_card",
+            "provider": "Gilbert, Travis and King"
+        },
+        "error_code": "error_806"
+    },
+    {
+        "transaction_id": "f602627d-ce06-4c54-a911-3e3a59031ff4",
+        "order_id": "order_13",
+        "timestamp": "2023-10-27 00:00:00",
+        "amount": 1726.37,
+        "currency": "USD",
+        "status": "completed",
+        "payment_method": {
+            "type": "wallet",
+            "provider": "Rogers-Lane"
+        },
+        "error_code": null
+    },
+    {
+        "transaction_id": "ff6c532c-cfba-449a-b047-f5b4fcb0d3a4",
+        "order_id": "order_27",
+        "timestamp": "2023-08-18 00:00:00",
+        "amount": 5248.64,
+        "currency": "EUR",
+        "status": "failed",
+        "payment_method": {
+            "type": "wallet",
+            "provider": "Gaines, Neal and Patterson"
+        },
+        "error_code": "error_585"
+    },
+    {
+        "transaction_id": "22d91dad-08ba-414e-a184-40ca89e35563",
+        "order_id": "order_42",
+        "timestamp": "2023-07-12 00:00:00",
+        "amount": 1394.26,
+        "currency": "EUR",
+        "status": "pending",
+        "payment_method": {
+            "type": "debit_card",
+            "provider": "Trevino-Santiago"
+        },
+        "error_code": "error_248"
+    },
+    {
+        "transaction_id": "886eea84-bb06-4274-bc60-e89ebafe0540",
+        "order_id": "order_6",
+        "timestamp": "2023-03-29 00:00:00",
+        "amount": 3834.89,
+        "currency": "USD",
+        "status": "failed",
+        "payment_method": {
+            "type": "credit_card",
+            "provider": "Duke and Sons"
+        },
+        "error_code": "error_111"
+    },
+    {
+        "transaction_id": "57afaf7e-93b5-4347-9500-35c61e985052",
+        "order_id": "order_18",
+        "timestamp": "2023-06-27 00:00:00",
+        "amount": 1259.37,
+        "currency": "EUR",
+        "status": "failed",
+        "payment_method": {
+            "type": "wallet",
+            "provider": "Robinson Inc"
+        },
+        "error_code": "error_811"
+    },
+    {
+        "transaction_id": "d561c385-a9bf-412d-a78e-c30ec554a272",
+        "order_id": "order_47",
+        "timestamp": "2023-08-04 00:00:00",
+        "amount": 2846.32,
+        "currency": "USD",
+        "status": "pending",
+        "payment_method": {
+            "type": "debit_card",
+            "provider": "Alvarez, Bradley and Ford"
+        },
+        "error_code": "error_397"
+    },
+    {
+        "transaction_id": "6fd9009c-80de-47f6-992e-da7f2309c20b",
+        "order_id": "order_39",
+        "timestamp": "2023-10-19 00:00:00",
+        "amount": 1793.0,
+        "currency": "GBP",
+        "status": "pending",
+        "payment_method": {
+            "type": "debit_card",
+            "provider": "Daniels Group"
+        },
+        "error_code": null
+    },
+    {
+        "transaction_id": "6d2f9d1e-9b20-4b3c-9e5c-b38c44096de0",
+        "order_id": "order_42",
+        "timestamp": "2023-06-13 00:00:00",
+        "amount": 1394.26,
+        "currency": "EUR",
+        "status": "failed",
+        "payment_method": {
+            "type": "debit_card",
+            "provider": "George, Stewart and Rogers"
+        },
+        "error_code": "error_810"
+    },
+    {
+        "transaction_id": "6bd49a15-19f0-45f1-bbe5-3b1b26d72629",
+        "order_id": "order_10",
+        "timestamp": "2023-03-23 00:00:00",
+        "amount": 3292.51,
+        "currency": "EUR",
+        "status": "failed",
+        "payment_method": {
+            "type": "credit_card",
+            "provider": "Hunt Ltd"
+        },
+        "error_code": "error_605"
+    },
+    {
+        "transaction_id": "88e105f3-44b7-4023-8b4e-442c21a30a88",
+        "order_id": "order_36",
+        "timestamp": "2023-04-12 00:00:00",
+        "amount": 876.66,
+        "currency": "EUR",
+        "status": "failed",
+        "payment_method": {
+            "type": "credit_card",
+            "provider": "Smith-Boyd"
+        },
+        "error_code": "error_409"
+    },
+    {
+        "transaction_id": "10f810ea-32d0-44c0-9b94-2421c1428bbe",
+        "order_id": "order_19",
+        "timestamp": "2023-03-07 00:00:00",
+        "amount": 2661.09,
+        "currency": "EUR",
+        "status": "failed",
+        "payment_method": {
+            "type": "credit_card",
+            "provider": "Glenn, Holder and Crawford"
+        },
+        "error_code": "error_541"
+    },
+    {
+        "transaction_id": "56cec041-6099-4bb4-bbe0-a54037264d8d",
+        "order_id": "order_14",
+        "timestamp": "2023-11-22 00:00:00",
+        "amount": 154.18,
+        "currency": "GBP",
+        "status": "failed",
+        "payment_method": {
+            "type": "wallet",
+            "provider": "Russell-Steele"
+        },
+        "error_code": "error_431"
+    },
+    {
+        "transaction_id": "73c8b906-00c3-4872-b506-c5940ea2158f",
+        "order_id": "order_21",
+        "timestamp": "2023-01-17 00:00:00",
+        "amount": 3926.3,
+        "currency": "EUR",
+        "status": "failed",
+        "payment_method": {
+            "type": "credit_card",
+            "provider": "Kennedy-Dickson"
+        },
+        "error_code": "error_209"
+    },
+    {
+        "transaction_id": "dd66971f-2190-44c5-9a0f-c5db2b2f1e88",
+        "order_id": "order_2",
+        "timestamp": "2023-06-12 00:00:00",
+        "amount": 1616.19,
+        "currency": "GBP",
+        "status": "failed",
+        "payment_method": {
+            "type": "debit_card",
+            "provider": "Chan LLC"
+        },
+        "error_code": "error_309"
+    },
+    {
+        "transaction_id": "28168528-2820-4f98-9958-dddba78ece61",
+        "order_id": "order_40",
+        "timestamp": "2023-09-03 00:00:00",
+        "amount": 2200.69,
+        "currency": "GBP",
+        "status": "completed",
+        "payment_method": {
+            "type": "credit_card",
+            "provider": "Singleton, Lewis and Williams"
+        },
+        "error_code": null
+    },
+    {
+        "transaction_id": "a46e6156-f18e-4a5f-a718-f4a86962106c",
+        "order_id": "order_5",
+        "timestamp": "2023-04-30 00:00:00",
+        "amount": 1102.48,
+        "currency": "GBP",
+        "status": "failed",
+        "payment_method": {
+            "type": "wallet",
+            "provider": "Michael-Pineda"
+        },
+        "error_code": "error_520"
+    },
+    {
+        "transaction_id": "02397066-6062-49ac-93d6-d0f059371115",
+        "order_id": "order_20",
+        "timestamp": "2023-07-28 00:00:00",
+        "amount": 2116.25,
+        "currency": "EUR",
+        "status": "failed",
+        "payment_method": {
+            "type": "credit_card",
+            "provider": "Nelson-Wu"
+        },
+        "error_code": "error_662"
+    },
+    {
+        "transaction_id": "ea8dad59-9771-47a8-8232-4ee1f2e8b578",
+        "order_id": "order_7",
+        "timestamp": "2023-05-10 00:00:00",
+        "amount": 4610.86,
+        "currency": "USD",
+        "status": "completed",
+        "payment_method": {
+            "type": "credit_card",
+            "provider": "Bridges Group"
+        },
+        "error_code": "error_484"
+    },
+    {
+        "transaction_id": "53296541-d8f6-4d7a-862a-7fb0e943d44d",
+        "order_id": "order_22",
+        "timestamp": "2023-02-17 00:00:00",
+        "amount": 4637.71,
+        "currency": "EUR",
+        "status": "failed",
+        "payment_method": {
+            "type": "wallet",
+            "provider": "Wood, Jenkins and Pham"
+        },
+        "error_code": "error_897"
+    },
+    {
+        "transaction_id": "7bc698f2-37cc-4d50-994f-4177250fcba7",
+        "order_id": "order_12",
+        "timestamp": "2023-03-28 00:00:00",
+        "amount": 1843.09,
+        "currency": "EUR",
+        "status": "failed",
+        "payment_method": {
+            "type": "wallet",
+            "provider": "Gonzales and Sons"
+        },
+        "error_code": "error_644"
+    },
+    {
+        "transaction_id": "8a3adce3-5393-4609-964c-5e28c0809841",
+        "order_id": "order_5",
+        "timestamp": "2023-11-22 00:00:00",
+        "amount": 1102.48,
+        "currency": "GBP",
+        "status": "pending",
+        "payment_method": {
+            "type": "wallet",
+            "provider": "Miller-Smith"
+        },
+        "error_code": null
+    },
+    {
+        "transaction_id": "bacafaae-8154-4864-9901-83b7efbb9dc1",
+        "order_id": "order_16",
+        "timestamp": "2023-10-27 00:00:00",
+        "amount": 261.63,
+        "currency": "EUR",
+        "status": "failed",
+        "payment_method": {
+            "type": "credit_card",
+            "provider": "Sellers PLC"
+        },
+        "error_code": "error_992"
+    },
+    {
+        "transaction_id": "38d51304-fe3e-41e0-a164-a6da11fd394f",
+        "order_id": "order_12",
+        "timestamp": "2023-06-08 00:00:00",
+        "amount": 1843.09,
+        "currency": "GBP",
+        "status": "pending",
+        "payment_method": {
+            "type": "credit_card",
+            "provider": "Bowman, Johnson and Price"
+        },
+        "error_code": null
+    },
+    {
+        "transaction_id": "bb49f4a9-19bb-4540-bd34-595fd4965229",
+        "order_id": "order_39",
+        "timestamp": "2023-09-24 00:00:00",
+        "amount": 1793.0,
+        "currency": "GBP",
+        "status": "failed",
+        "payment_method": {
+            "type": "debit_card",
+            "provider": "Anderson and Sons"
+        },
+        "error_code": "error_956"
+    }
+]

@@ -1,0 +1,1272 @@
+[
+    {
+        "order_id": "order_1",
+        "customer_id": "41e24360-f867-43c8-8538-55541d5411b9",
+        "timestamp": "2023-05-17 00:00:00",
+        "total_amount": 376.8,
+        "currency": "USD",
+        "items": [
+            {
+                "product_id": "product_6",
+                "quantity": 2,
+                "unit_price": 188.4
+            }
+        ],
+        "payment_status": "paid"
+    },
+    {
+        "order_id": "order_2",
+        "customer_id": "7ae6b027-7b35-4472-9c1f-a9196c9003cb",
+        "timestamp": "2023-06-02 00:00:00",
+        "total_amount": 1616.19,
+        "currency": "USD",
+        "items": [
+            {
+                "product_id": "product_4",
+                "quantity": 2,
+                "unit_price": 457.93
+            },
+            {
+                "product_id": "product_2",
+                "quantity": 1,
+                "unit_price": 53.5
+            },
+            {
+                "product_id": "product_66",
+                "quantity": 3,
+                "unit_price": 215.61
+            }
+        ],
+        "payment_status": "refunded"
+    },
+    {
+        "order_id": "order_3",
+        "customer_id": "fe3dcac0-66f7-4d67-808d-a48024aa32cd",
+        "timestamp": "2023-01-08 00:00:00",
+        "total_amount": 794.4,
+        "currency": "EUR",
+        "items": [
+            {
+                "product_id": "product_87",
+                "quantity": 4,
+                "unit_price": 190.83
+            },
+            {
+                "product_id": "product_50",
+                "quantity": 3,
+                "unit_price": 10.36
+            }
+        ],
+        "payment_status": "failed"
+    },
+    {
+        "order_id": "order_4",
+        "customer_id": "6f9fb5e7-93c4-40e9-a721-9b2ea5da89a3",
+        "timestamp": "2023-06-14 00:00:00",
+        "total_amount": 815.98,
+        "currency": "GBP",
+        "items": [
+            {
+                "product_id": "product_59",
+                "quantity": 4,
+                "unit_price": 130.37
+            },
+            {
+                "product_id": "product_37",
+                "quantity": 1,
+                "unit_price": 294.5
+            }
+        ],
+        "payment_status": "refunded"
+    },
+    {
+        "order_id": "order_5",
+        "customer_id": "b159d637-cb54-495a-9143-db35045de619",
+        "timestamp": "2023-09-08 00:00:00",
+        "total_amount": 1102.48,
+        "currency": "GBP",
+        "items": [
+            {
+                "product_id": "product_68",
+                "quantity": 4,
+                "unit_price": 75.71
+            },
+            {
+                "product_id": "product_33",
+                "quantity": 5,
+                "unit_price": 114.34
+            },
+            {
+                "product_id": "product_67",
+                "quantity": 3,
+                "unit_price": 75.98
+            }
+        ],
+        "payment_status": "failed"
+    },
+    {
+        "order_id": "order_6",
+        "customer_id": "a9bcbd1f-3cf7-4f5c-846c-d3b55314c7a2",
+        "timestamp": "2023-08-27 00:00:00",
+        "total_amount": 3834.89,
+        "currency": "EUR",
+        "items": [
+            {
+                "product_id": "product_56",
+                "quantity": 4,
+                "unit_price": 127.07
+            },
+            {
+                "product_id": "product_12",
+                "quantity": 2,
+                "unit_price": 488.13
+            },
+            {
+                "product_id": "product_93",
+                "quantity": 1,
+                "unit_price": 435.19
+            },
+            {
+                "product_id": "product_45",
+                "quantity": 4,
+                "unit_price": 124.39
+            },
+            {
+                "product_id": "product_30",
+                "quantity": 5,
+                "unit_price": 283.52
+            }
+        ],
+        "payment_status": "failed"
+    },
+    {
+        "order_id": "order_7",
+        "customer_id": "6cd123dc-4e81-4521-a658-28d788acb154",
+        "timestamp": "2023-08-07 00:00:00",
+        "total_amount": 4610.86,
+        "currency": "EUR",
+        "items": [
+            {
+                "product_id": "product_94",
+                "quantity": 1,
+                "unit_price": 291.44
+            },
+            {
+                "product_id": "product_43",
+                "quantity": 2,
+                "unit_price": 305.9
+            },
+            {
+                "product_id": "product_6",
+                "quantity": 5,
+                "unit_price": 404.3
+            },
+            {
+                "product_id": "product_52",
+                "quantity": 4,
+                "unit_price": 421.53
+            }
+        ],
+        "payment_status": "paid"
+    },
+    {
+        "order_id": "order_8",
+        "customer_id": "6947ac35-cdd0-4e8b-b5f3-196a05a56869",
+        "timestamp": "2023-06-11 00:00:00",
+        "total_amount": 3637.94,
+        "currency": "GBP",
+        "items": [
+            {
+                "product_id": "product_56",
+                "quantity": 2,
+                "unit_price": 189.54
+            },
+            {
+                "product_id": "product_50",
+                "quantity": 3,
+                "unit_price": 472.85
+            },
+            {
+                "product_id": "product_80",
+                "quantity": 1,
+                "unit_price": 264.99
+            },
+            {
+                "product_id": "product_10",
+                "quantity": 4,
+                "unit_price": 393.83
+            }
+        ],
+        "payment_status": "failed"
+    },
+    {
+        "order_id": "order_9",
+        "customer_id": "3648d2b3-eab1-44ba-8bef-bd80546b89d5",
+        "timestamp": "2023-11-18 00:00:00",
+        "total_amount": 711.46,
+        "currency": "EUR",
+        "items": [
+            {
+                "product_id": "product_52",
+                "quantity": 3,
+                "unit_price": 183.88
+            },
+            {
+                "product_id": "product_5",
+                "quantity": 1,
+                "unit_price": 159.82
+            }
+        ],
+        "payment_status": "paid"
+    },
+    {
+        "order_id": "order_10",
+        "customer_id": "a330dd9d-e211-481a-bc8e-01598cdd7ce8",
+        "timestamp": "2023-04-06 00:00:00",
+        "total_amount": 3292.51,
+        "currency": "EUR",
+        "items": [
+            {
+                "product_id": "product_49",
+                "quantity": 3,
+                "unit_price": 91.47
+            },
+            {
+                "product_id": "product_78",
+                "quantity": 5,
+                "unit_price": 128.07
+            },
+            {
+                "product_id": "product_29",
+                "quantity": 1,
+                "unit_price": 437.94
+            },
+            {
+                "product_id": "product_80",
+                "quantity": 3,
+                "unit_price": 385.72
+            },
+            {
+                "product_id": "product_31",
+                "quantity": 5,
+                "unit_price": 156.53
+            }
+        ],
+        "payment_status": "failed"
+    },
+    {
+        "order_id": "order_11",
+        "customer_id": "cb75cfb5-9518-4b7c-b288-f369878ff6b4",
+        "timestamp": "2023-09-05 00:00:00",
+        "total_amount": 1124.36,
+        "currency": "EUR",
+        "items": [
+            {
+                "product_id": "product_98",
+                "quantity": 3,
+                "unit_price": 215.46
+            },
+            {
+                "product_id": "product_16",
+                "quantity": 1,
+                "unit_price": 181.57
+            },
+            {
+                "product_id": "product_52",
+                "quantity": 1,
+                "unit_price": 296.41
+            }
+        ],
+        "payment_status": "failed"
+    },
+    {
+        "order_id": "order_12",
+        "customer_id": "5dbd57bb-716e-4fa4-8c9d-632c21d3ae44",
+        "timestamp": "2023-04-17 00:00:00",
+        "total_amount": 1843.09,
+        "currency": "USD",
+        "items": [
+            {
+                "product_id": "product_57",
+                "quantity": 3,
+                "unit_price": 228.46
+            },
+            {
+                "product_id": "product_65",
+                "quantity": 2,
+                "unit_price": 479.9
+            },
+            {
+                "product_id": "product_75",
+                "quantity": 1,
+                "unit_price": 197.91
+            }
+        ],
+        "payment_status": "paid"
+    },
+    {
+        "order_id": "order_13",
+        "customer_id": "768860a8-91cd-44fc-9f79-cef59fb5a8e3",
+        "timestamp": "2023-08-29 00:00:00",
+        "total_amount": 1726.37,
+        "currency": "GBP",
+        "items": [
+            {
+                "product_id": "product_10",
+                "quantity": 1,
+                "unit_price": 415.66
+            },
+            {
+                "product_id": "product_71",
+                "quantity": 3,
+                "unit_price": 54.72
+            },
+            {
+                "product_id": "product_20",
+                "quantity": 3,
+                "unit_price": 125.54
+            },
+            {
+                "product_id": "product_29",
+                "quantity": 2,
+                "unit_price": 5.69
+            },
+            {
+                "product_id": "product_24",
+                "quantity": 5,
+                "unit_price": 151.71
+            }
+        ],
+        "payment_status": "refunded"
+    },
+    {
+        "order_id": "order_14",
+        "customer_id": "8c1db3ea-174a-421e-8464-d73a37eda8f2",
+        "timestamp": "2023-07-10 00:00:00",
+        "total_amount": 154.18,
+        "currency": "EUR",
+        "items": [
+            {
+                "product_id": "product_97",
+                "quantity": 2,
+                "unit_price": 77.09
+            }
+        ],
+        "payment_status": "refunded"
+    },
+    {
+        "order_id": "order_15",
+        "customer_id": "7dc17979-7dc7-4bf2-9506-fc95f351253e",
+        "timestamp": "2023-03-24 00:00:00",
+        "total_amount": 1652.72,
+        "currency": "GBP",
+        "items": [
+            {
+                "product_id": "product_8",
+                "quantity": 4,
+                "unit_price": 413.18
+            }
+        ],
+        "payment_status": "refunded"
+    },
+    {
+        "order_id": "order_16",
+        "customer_id": "35f49616-fb00-4592-b7b9-3dc9d7be15bc",
+        "timestamp": "2023-04-24 00:00:00",
+        "total_amount": 261.63,
+        "currency": "USD",
+        "items": [
+            {
+                "product_id": "product_48",
+                "quantity": 1,
+                "unit_price": 261.63
+            }
+        ],
+        "payment_status": "paid"
+    },
+    {
+        "order_id": "order_17",
+        "customer_id": "47ea9af2-64c3-454c-8c78-bc576b953695",
+        "timestamp": "2023-10-14 00:00:00",
+        "total_amount": 3034.65,
+        "currency": "USD",
+        "items": [
+            {
+                "product_id": "product_77",
+                "quantity": 2,
+                "unit_price": 124.61
+            },
+            {
+                "product_id": "product_41",
+                "quantity": 5,
+                "unit_price": 420.83
+            },
+            {
+                "product_id": "product_83",
+                "quantity": 2,
+                "unit_price": 220.13
+            },
+            {
+                "product_id": "product_98",
+                "quantity": 2,
+                "unit_price": 120.51
+            }
+        ],
+        "payment_status": "refunded"
+    },
+    {
+        "order_id": "order_18",
+        "customer_id": "1c5f1945-ed73-4f22-b826-f769880e67b2",
+        "timestamp": "2023-12-21 00:00:00",
+        "total_amount": 1259.37,
+        "currency": "EUR",
+        "items": [
+            {
+                "product_id": "product_42",
+                "quantity": 4,
+                "unit_price": 194.46
+            },
+            {
+                "product_id": "product_18",
+                "quantity": 1,
+                "unit_price": 99.39
+            },
+            {
+                "product_id": "product_48",
+                "quantity": 2,
+                "unit_price": 191.07
+            }
+        ],
+        "payment_status": "paid"
+    },
+    {
+        "order_id": "order_19",
+        "customer_id": "73ca609e-607b-45bb-8b74-3206971d6fa8",
+        "timestamp": "2023-10-12 00:00:00",
+        "total_amount": 2661.09,
+        "currency": "GBP",
+        "items": [
+            {
+                "product_id": "product_51",
+                "quantity": 5,
+                "unit_price": 484.29
+            },
+            {
+                "product_id": "product_96",
+                "quantity": 2,
+                "unit_price": 119.82
+            }
+        ],
+        "payment_status": "paid"
+    },
+    {
+        "order_id": "order_20",
+        "customer_id": "580ffabd-8ff3-41f7-bdee-89e098cefede",
+        "timestamp": "2023-02-28 00:00:00",
+        "total_amount": 2116.25,
+        "currency": "EUR",
+        "items": [
+            {
+                "product_id": "product_58",
+                "quantity": 2,
+                "unit_price": 96.49
+            },
+            {
+                "product_id": "product_71",
+                "quantity": 4,
+                "unit_price": 153.7
+            },
+            {
+                "product_id": "product_53",
+                "quantity": 4,
+                "unit_price": 103.61
+            },
+            {
+                "product_id": "product_96",
+                "quantity": 3,
+                "unit_price": 255.16
+            },
+            {
+                "product_id": "product_93",
+                "quantity": 1,
+                "unit_price": 128.55
+            }
+        ],
+        "payment_status": "failed"
+    },
+    {
+        "order_id": "order_21",
+        "customer_id": "cad6d8c7-f752-41c3-b57b-b36ee0f426ef",
+        "timestamp": "2023-12-04 00:00:00",
+        "total_amount": 3926.3,
+        "currency": "EUR",
+        "items": [
+            {
+                "product_id": "product_60",
+                "quantity": 3,
+                "unit_price": 446.95
+            },
+            {
+                "product_id": "product_44",
+                "quantity": 1,
+                "unit_price": 408.77
+            },
+            {
+                "product_id": "product_5",
+                "quantity": 4,
+                "unit_price": 453.77
+            },
+            {
+                "product_id": "product_92",
+                "quantity": 5,
+                "unit_price": 17.32
+            },
+            {
+                "product_id": "product_50",
+                "quantity": 2,
+                "unit_price": 137.5
+            }
+        ],
+        "payment_status": "refunded"
+    },
+    {
+        "order_id": "order_22",
+        "customer_id": "7fd2aa72-e3ae-4dfa-bd79-5706837608d7",
+        "timestamp": "2023-01-19 00:00:00",
+        "total_amount": 4637.71,
+        "currency": "GBP",
+        "items": [
+            {
+                "product_id": "product_54",
+                "quantity": 2,
+                "unit_price": 220.78
+            },
+            {
+                "product_id": "product_86",
+                "quantity": 5,
+                "unit_price": 301.29
+            },
+            {
+                "product_id": "product_50",
+                "quantity": 5,
+                "unit_price": 58.47
+            },
+            {
+                "product_id": "product_44",
+                "quantity": 5,
+                "unit_price": 217.83
+            },
+            {
+                "product_id": "product_59",
+                "quantity": 4,
+                "unit_price": 327.05
+            }
+        ],
+        "payment_status": "paid"
+    },
+    {
+        "order_id": "order_23",
+        "customer_id": "4335d825-195f-4a4b-8724-e90a88c36789",
+        "timestamp": "2023-05-04 00:00:00",
+        "total_amount": 2784.53,
+        "currency": "GBP",
+        "items": [
+            {
+                "product_id": "product_34",
+                "quantity": 4,
+                "unit_price": 499.37
+            },
+            {
+                "product_id": "product_75",
+                "quantity": 2,
+                "unit_price": 303.04
+            },
+            {
+                "product_id": "product_40",
+                "quantity": 1,
+                "unit_price": 180.97
+            }
+        ],
+        "payment_status": "paid"
+    },
+    {
+        "order_id": "order_24",
+        "customer_id": "d860212d-f0bd-4875-ad08-ebdc07b1d039",
+        "timestamp": "2023-01-27 00:00:00",
+        "total_amount": 742.9,
+        "currency": "EUR",
+        "items": [
+            {
+                "product_id": "product_96",
+                "quantity": 3,
+                "unit_price": 136.98
+            },
+            {
+                "product_id": "product_59",
+                "quantity": 2,
+                "unit_price": 165.98
+            }
+        ],
+        "payment_status": "paid"
+    },
+    {
+        "order_id": "order_25",
+        "customer_id": "2d99c78a-a72e-4e6c-a9c6-523b871b6f73",
+        "timestamp": "2023-04-19 00:00:00",
+        "total_amount": 438.71,
+        "currency": "USD",
+        "items": [
+            {
+                "product_id": "product_46",
+                "quantity": 2,
+                "unit_price": 208.74
+            },
+            {
+                "product_id": "product_40",
+                "quantity": 1,
+                "unit_price": 21.23
+            }
+        ],
+        "payment_status": "paid"
+    },
+    {
+        "order_id": "order_26",
+        "customer_id": "f0b3a992-20da-4bfc-8479-2822fea0be83",
+        "timestamp": "2023-10-20 00:00:00",
+        "total_amount": 397.28,
+        "currency": "EUR",
+        "items": [
+            {
+                "product_id": "product_54",
+                "quantity": 4,
+                "unit_price": 99.32
+            }
+        ],
+        "payment_status": "paid"
+    },
+    {
+        "order_id": "order_27",
+        "customer_id": "85953292-cc11-4166-88eb-9e83d8ba7380",
+        "timestamp": "2023-11-07 00:00:00",
+        "total_amount": 5248.64,
+        "currency": "USD",
+        "items": [
+            {
+                "product_id": "product_29",
+                "quantity": 5,
+                "unit_price": 68.2
+            },
+            {
+                "product_id": "product_40",
+                "quantity": 3,
+                "unit_price": 356.09
+            },
+            {
+                "product_id": "product_31",
+                "quantity": 2,
+                "unit_price": 471.32
+            },
+            {
+                "product_id": "product_28",
+                "quantity": 1,
+                "unit_price": 422.83
+            },
+            {
+                "product_id": "product_48",
+                "quantity": 5,
+                "unit_price": 494.78
+            }
+        ],
+        "payment_status": "refunded"
+    },
+    {
+        "order_id": "order_28",
+        "customer_id": "ccfdfb52-2ecf-4cb4-8ca3-1adc03026b84",
+        "timestamp": "2023-07-05 00:00:00",
+        "total_amount": 1857.49,
+        "currency": "EUR",
+        "items": [
+            {
+                "product_id": "product_79",
+                "quantity": 3,
+                "unit_price": 491.89
+            },
+            {
+                "product_id": "product_67",
+                "quantity": 2,
+                "unit_price": 190.91
+            }
+        ],
+        "payment_status": "paid"
+    },
+    {
+        "order_id": "order_29",
+        "customer_id": "50c6e370-2f19-4344-9aa4-ed0a12287d25",
+        "timestamp": "2023-08-24 00:00:00",
+        "total_amount": 4785.02,
+        "currency": "GBP",
+        "items": [
+            {
+                "product_id": "product_77",
+                "quantity": 3,
+                "unit_price": 493.59
+            },
+            {
+                "product_id": "product_7",
+                "quantity": 5,
+                "unit_price": 474.05
+            },
+            {
+                "product_id": "product_22",
+                "quantity": 2,
+                "unit_price": 467.0
+            }
+        ],
+        "payment_status": "paid"
+    },
+    {
+        "order_id": "order_30",
+        "customer_id": "0bb67bcb-87b4-4641-b6cf-2e5a50b9fdfb",
+        "timestamp": "2023-01-17 00:00:00",
+        "total_amount": 196.12,
+        "currency": "GBP",
+        "items": [
+            {
+                "product_id": "product_7",
+                "quantity": 4,
+                "unit_price": 49.03
+            }
+        ],
+        "payment_status": "failed"
+    },
+    {
+        "order_id": "order_31",
+        "customer_id": "a280594f-e616-44e4-9855-9b113f45daec",
+        "timestamp": "2023-11-30 00:00:00",
+        "total_amount": 712.66,
+        "currency": "EUR",
+        "items": [
+            {
+                "product_id": "product_82",
+                "quantity": 2,
+                "unit_price": 356.33
+            }
+        ],
+        "payment_status": "paid"
+    },
+    {
+        "order_id": "order_32",
+        "customer_id": "67333eb3-f686-4cb5-ad5f-d2762a18294f",
+        "timestamp": "2023-04-19 00:00:00",
+        "total_amount": 810.14,
+        "currency": "GBP",
+        "items": [
+            {
+                "product_id": "product_92",
+                "quantity": 2,
+                "unit_price": 220.25
+            },
+            {
+                "product_id": "product_83",
+                "quantity": 4,
+                "unit_price": 92.41
+            }
+        ],
+        "payment_status": "paid"
+    },
+    {
+        "order_id": "order_33",
+        "customer_id": "660bc2f5-ec1d-48ba-bcc0-6e45b4b677dc",
+        "timestamp": "2023-11-20 00:00:00",
+        "total_amount": 2416.59,
+        "currency": "USD",
+        "items": [
+            {
+                "product_id": "product_68",
+                "quantity": 3,
+                "unit_price": 331.88
+            },
+            {
+                "product_id": "product_38",
+                "quantity": 2,
+                "unit_price": 116.08
+            },
+            {
+                "product_id": "product_92",
+                "quantity": 2,
+                "unit_price": 471.22
+            },
+            {
+                "product_id": "product_21",
+                "quantity": 1,
+                "unit_price": 246.35
+            }
+        ],
+        "payment_status": "paid"
+    },
+    {
+        "order_id": "order_34",
+        "customer_id": "778ca1a3-8545-4bac-9e93-d47751913f2b",
+        "timestamp": "2023-12-19 00:00:00",
+        "total_amount": 3655.3,
+        "currency": "EUR",
+        "items": [
+            {
+                "product_id": "product_51",
+                "quantity": 1,
+                "unit_price": 486.67
+            },
+            {
+                "product_id": "product_34",
+                "quantity": 3,
+                "unit_price": 154.36
+            },
+            {
+                "product_id": "product_93",
+                "quantity": 5,
+                "unit_price": 228.55
+            },
+            {
+                "product_id": "product_27",
+                "quantity": 4,
+                "unit_price": 390.7
+            }
+        ],
+        "payment_status": "paid"
+    },
+    {
+        "order_id": "order_35",
+        "customer_id": "04d21474-e27f-4e98-a5c8-79fd5e98a3a0",
+        "timestamp": "2023-07-16 00:00:00",
+        "total_amount": 2133.86,
+        "currency": "EUR",
+        "items": [
+            {
+                "product_id": "product_55",
+                "quantity": 2,
+                "unit_price": 182.18
+            },
+            {
+                "product_id": "product_3",
+                "quantity": 1,
+                "unit_price": 306.51
+            },
+            {
+                "product_id": "product_99",
+                "quantity": 1,
+                "unit_price": 414.55
+            },
+            {
+                "product_id": "product_94",
+                "quantity": 4,
+                "unit_price": 262.11
+            }
+        ],
+        "payment_status": "failed"
+    },
+    {
+        "order_id": "order_36",
+        "customer_id": "06ab0b59-7e2c-42fe-90ab-28b2ef62a250",
+        "timestamp": "2023-05-07 00:00:00",
+        "total_amount": 876.66,
+        "currency": "GBP",
+        "items": [
+            {
+                "product_id": "product_46",
+                "quantity": 3,
+                "unit_price": 41.46
+            },
+            {
+                "product_id": "product_79",
+                "quantity": 3,
+                "unit_price": 54.51
+            },
+            {
+                "product_id": "product_21",
+                "quantity": 3,
+                "unit_price": 196.25
+            }
+        ],
+        "payment_status": "failed"
+    },
+    {
+        "order_id": "order_37",
+        "customer_id": "b5fe0059-f348-4316-8061-a8164356ce2b",
+        "timestamp": "2023-10-02 00:00:00",
+        "total_amount": 1365.27,
+        "currency": "EUR",
+        "items": [
+            {
+                "product_id": "product_88",
+                "quantity": 3,
+                "unit_price": 455.09
+            }
+        ],
+        "payment_status": "failed"
+    },
+    {
+        "order_id": "order_38",
+        "customer_id": "f22b766d-939f-4054-8bc7-861131037528",
+        "timestamp": "2023-12-24 00:00:00",
+        "total_amount": 483.53,
+        "currency": "EUR",
+        "items": [
+            {
+                "product_id": "product_49",
+                "quantity": 4,
+                "unit_price": 55.16
+            },
+            {
+                "product_id": "product_86",
+                "quantity": 3,
+                "unit_price": 87.63
+            }
+        ],
+        "payment_status": "paid"
+    },
+    {
+        "order_id": "order_39",
+        "customer_id": "d0d5fef1-0da5-40ca-b73a-10f1f3872a65",
+        "timestamp": "2023-12-28 00:00:00",
+        "total_amount": 1793.0,
+        "currency": "EUR",
+        "items": [
+            {
+                "product_id": "product_97",
+                "quantity": 4,
+                "unit_price": 315.65
+            },
+            {
+                "product_id": "product_9",
+                "quantity": 3,
+                "unit_price": 176.8
+            }
+        ],
+        "payment_status": "paid"
+    },
+    {
+        "order_id": "order_40",
+        "customer_id": "ecc4c5da-05f4-4bc2-b74b-e84acc708318",
+        "timestamp": "2023-01-21 00:00:00",
+        "total_amount": 2200.69,
+        "currency": "EUR",
+        "items": [
+            {
+                "product_id": "product_39",
+                "quantity": 1,
+                "unit_price": 444.84
+            },
+            {
+                "product_id": "product_85",
+                "quantity": 1,
+                "unit_price": 261.27
+            },
+            {
+                "product_id": "product_58",
+                "quantity": 2,
+                "unit_price": 190.18
+            },
+            {
+                "product_id": "product_36",
+                "quantity": 2,
+                "unit_price": 481.5
+            },
+            {
+                "product_id": "product_62",
+                "quantity": 2,
+                "unit_price": 75.61
+            }
+        ],
+        "payment_status": "paid"
+    },
+    {
+        "order_id": "order_41",
+        "customer_id": "36153471-ab8c-4fea-974d-0f8169ed7300",
+        "timestamp": "2023-09-27 00:00:00",
+        "total_amount": 3151.82,
+        "currency": "GBP",
+        "items": [
+            {
+                "product_id": "product_62",
+                "quantity": 4,
+                "unit_price": 419.89
+            },
+            {
+                "product_id": "product_40",
+                "quantity": 4,
+                "unit_price": 214.1
+            },
+            {
+                "product_id": "product_5",
+                "quantity": 1,
+                "unit_price": 446.12
+            },
+            {
+                "product_id": "product_86",
+                "quantity": 1,
+                "unit_price": 169.74
+            }
+        ],
+        "payment_status": "paid"
+    },
+    {
+        "order_id": "order_42",
+        "customer_id": "9b7e8871-0fbc-489f-9561-fc9e5491cb10",
+        "timestamp": "2023-09-19 00:00:00",
+        "total_amount": 1394.26,
+        "currency": "GBP",
+        "items": [
+            {
+                "product_id": "product_81",
+                "quantity": 5,
+                "unit_price": 25.13
+            },
+            {
+                "product_id": "product_10",
+                "quantity": 3,
+                "unit_price": 422.87
+            }
+        ],
+        "payment_status": "refunded"
+    },
+    {
+        "order_id": "order_43",
+        "customer_id": "4d55353b-4e5c-4649-b2c8-18f4aaa48330",
+        "timestamp": "2023-02-17 00:00:00",
+        "total_amount": 1648.96,
+        "currency": "USD",
+        "items": [
+            {
+                "product_id": "product_22",
+                "quantity": 2,
+                "unit_price": 467.24
+            },
+            {
+                "product_id": "product_36",
+                "quantity": 4,
+                "unit_price": 178.62
+            }
+        ],
+        "payment_status": "refunded"
+    },
+    {
+        "order_id": "order_44",
+        "customer_id": "63cabeed-000f-4ea9-9fe6-7a7ff51b38d3",
+        "timestamp": "2023-08-27 00:00:00",
+        "total_amount": 2131.79,
+        "currency": "EUR",
+        "items": [
+            {
+                "product_id": "product_19",
+                "quantity": 3,
+                "unit_price": 213.66
+            },
+            {
+                "product_id": "product_33",
+                "quantity": 4,
+                "unit_price": 95.63
+            },
+            {
+                "product_id": "product_17",
+                "quantity": 1,
+                "unit_price": 343.63
+            },
+            {
+                "product_id": "product_92",
+                "quantity": 2,
+                "unit_price": 382.33
+            }
+        ],
+        "payment_status": "refunded"
+    },
+    {
+        "order_id": "order_45",
+        "customer_id": "6e3cf1fa-b9ef-484d-b424-1b80e1bf9477",
+        "timestamp": "2023-07-07 00:00:00",
+        "total_amount": 3188.84,
+        "currency": "USD",
+        "items": [
+            {
+                "product_id": "product_28",
+                "quantity": 4,
+                "unit_price": 193.08
+            },
+            {
+                "product_id": "product_66",
+                "quantity": 2,
+                "unit_price": 489.56
+            },
+            {
+                "product_id": "product_77",
+                "quantity": 5,
+                "unit_price": 137.06
+            },
+            {
+                "product_id": "product_68",
+                "quantity": 2,
+                "unit_price": 179.52
+            },
+            {
+                "product_id": "product_68",
+                "quantity": 2,
+                "unit_price": 196.53
+            }
+        ],
+        "payment_status": "failed"
+    },
+    {
+        "order_id": "order_46",
+        "customer_id": "45b1a503-d5ef-4121-8d45-8c916e974012",
+        "timestamp": "2023-03-28 00:00:00",
+        "total_amount": 6305.98,
+        "currency": "GBP",
+        "items": [
+            {
+                "product_id": "product_39",
+                "quantity": 3,
+                "unit_price": 255.61
+            },
+            {
+                "product_id": "product_88",
+                "quantity": 5,
+                "unit_price": 197.15
+            },
+            {
+                "product_id": "product_27",
+                "quantity": 2,
+                "unit_price": 132.95
+            },
+            {
+                "product_id": "product_62",
+                "quantity": 5,
+                "unit_price": 405.36
+            },
+            {
+                "product_id": "product_67",
+                "quantity": 5,
+                "unit_price": 452.14
+            }
+        ],
+        "payment_status": "paid"
+    },
+    {
+        "order_id": "order_47",
+        "customer_id": "aa729b6f-2bd3-419a-9555-6372134b089f",
+        "timestamp": "2023-07-18 00:00:00",
+        "total_amount": 2846.32,
+        "currency": "GBP",
+        "items": [
+            {
+                "product_id": "product_89",
+                "quantity": 5,
+                "unit_price": 196.02
+            },
+            {
+                "product_id": "product_43",
+                "quantity": 3,
+                "unit_price": 464.66
+            },
+            {
+                "product_id": "product_20",
+                "quantity": 4,
+                "unit_price": 98.51
+            },
+            {
+                "product_id": "product_77",
+                "quantity": 5,
+                "unit_price": 15.64
+            }
+        ],
+        "payment_status": "failed"
+    },
+    {
+        "order_id": "order_48",
+        "customer_id": "64cf12f0-7eec-41f8-9445-53f158209f9a",
+        "timestamp": "2023-05-05 00:00:00",
+        "total_amount": 2523.49,
+        "currency": "EUR",
+        "items": [
+            {
+                "product_id": "product_19",
+                "quantity": 3,
+                "unit_price": 441.95
+            },
+            {
+                "product_id": "product_68",
+                "quantity": 1,
+                "unit_price": 208.72
+            },
+            {
+                "product_id": "product_2",
+                "quantity": 5,
+                "unit_price": 141.78
+            },
+            {
+                "product_id": "product_64",
+                "quantity": 1,
+                "unit_price": 280.02
+            }
+        ],
+        "payment_status": "refunded"
+    },
+    {
+        "order_id": "order_49",
+        "customer_id": "6210afd2-39d7-47a9-b2a4-88ac2b400611",
+        "timestamp": "2023-09-02 00:00:00",
+        "total_amount": 4521.56,
+        "currency": "USD",
+        "items": [
+            {
+                "product_id": "product_1",
+                "quantity": 3,
+                "unit_price": 82.53
+            },
+            {
+                "product_id": "product_6",
+                "quantity": 4,
+                "unit_price": 317.47
+            },
+            {
+                "product_id": "product_63",
+                "quantity": 4,
+                "unit_price": 498.25
+            },
+            {
+                "product_id": "product_26",
+                "quantity": 2,
+                "unit_price": 375.87
+            },
+            {
+                "product_id": "product_45",
+                "quantity": 1,
+                "unit_price": 259.35
+            }
+        ],
+        "payment_status": "paid"
+    },
+    {
+        "order_id": "order_50",
+        "customer_id": "74f8bfdf-a4c4-4382-bed2-10395824e32f",
+        "timestamp": "2023-03-13 00:00:00",
+        "total_amount": 4301.66,
+        "currency": "GBP",
+        "items": [
+            {
+                "product_id": "product_19",
+                "quantity": 2,
+                "unit_price": 9.35
+            },
+            {
+                "product_id": "product_10",
+                "quantity": 4,
+                "unit_price": 499.94
+            },
+            {
+                "product_id": "product_95",
+                "quantity": 5,
+                "unit_price": 456.64
+            }
+        ],
+        "payment_status": "paid"
+    }
+]
